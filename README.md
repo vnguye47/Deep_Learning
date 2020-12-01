@@ -2,7 +2,7 @@
  There are three notebooks using Neural Network.
 
 
- Notebook titled DL_TensorFlow_Keras is a neural network model that recognized handwritten numbers and categortize them.
+ Notebook titled DL_TensorFlow_Keras is a neural network model that recognized handwritten numbers and categorize them.
 
 
  Notebook Fashion_MNIST_Classification uses the MNIST dataset to categorize images of clothing items
